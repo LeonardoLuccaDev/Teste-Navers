@@ -15,5 +15,3 @@ GET http://localhost:3333/projects/:id
 POST http://localhost:3333/navers
 POST http://localhost:3333/projects
 
-LINK PARA O SANDBOX:
-
