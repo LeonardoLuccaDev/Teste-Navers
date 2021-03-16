@@ -1,4 +1,4 @@
-O repositório encontra-se tanto a lista de exercicios quanto a API do teste pratico a pedido da empresa Navers.
+O repositório encontra-se tanto a lista de exercicios quanto a API do teste prático a pedido da empresa Navers.
 
 INSTRUÇÕES PARA A API:
 
